@@ -6,7 +6,7 @@
 
 <h2>🤔 Leetcode Solutions:</h2>
 
-- [View My LeetCode Solutions on Notion](https://www.notion.so/LeetCode-Solutions-1bce2cf3308a80ec80c4fdd0f11fcd8d?pvs=4)
+- [View My LeetCode Solutions on Notion](https://outstanding-existence-42c.notion.site/LeetCode-Solutions-1bce2cf3308a80ec80c4fdd0f11fcd8d)
 
 <h2> 🤳 Connect with me:</h2>
 
