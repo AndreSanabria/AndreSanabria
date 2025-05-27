@@ -10,10 +10,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="AndreSanabria | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
-
-<h2> 🤳 Connect with me:</h2>
-
 - <img align="center" alt="LinkedIn" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" /> [linkedin.com/in/andre-san06](https://www.linkedin.com/in/andre-san06)  
 - 📧 [Andre.E.Sanabria.G@gmail.com](mailto:Andre.E.Sanabria.G@gmail.com)
 
