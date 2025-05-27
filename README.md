@@ -12,7 +12,7 @@
 
 [<img align="left" alt="AndreSanabria | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 
-[linkedin]: (www.linkedin.com/in/andre-san06)
+[linkedin]:(www.linkedin.com/in/andre-san06)
 <br>
 ## 📧: Andre.E.Sanabria.G@gmail.com
 
